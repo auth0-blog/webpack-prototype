@@ -1,0 +1,16 @@
+.webpack {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  width: 400px;
+  height: 430px;
+
+  text-decoration: none;
+}
+
+.webpack-img {
+  position: absolute;
+  margin-top: 30px;
+  z-index: -100;
+}

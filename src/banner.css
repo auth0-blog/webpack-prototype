@@ -1,0 +1,19 @@
+/* src/banner.css */
+
+@import url('https://fonts.googleapis.com/css?family=Arvo');
+
+.banner {
+  display: flex;
+  justify-content: center;
+  background: #1A6DB9;
+  opacity: 0.8;
+  color: white;
+  padding: 10px 0;
+
+  width: 100%;
+
+
+  font-family: 'Arvo', sans-serif;
+  font-weight: bolder;
+  font-size: 30px;
+}
