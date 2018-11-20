@@ -20,7 +20,7 @@ Sometimes you don't need a framework like Angular or React to demonstrate an ide
 
 You can find the final version of this exercise on the [`webpack-prototype` repo on GitHub](https://github.com/auth0-blog/webpack-prototype). However, I encourage you to read on and build the webpack app prototype gradually to better understand the heavy lifting that webpack is doing for you.
 
-->![Learn webpack today](https://cdn.auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/learn-webpack-today.png)<-
+![Learn webpack today](https://cdn.auth0.com/blog/zero-config-javascript-app-prototyping-with-webpack/learn-webpack-today.png)
 
 ## Auth0: Never Compromise on Identity
 
